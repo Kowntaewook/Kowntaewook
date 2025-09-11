@@ -24,6 +24,7 @@
           <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white">
           <br/><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white">
           <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white">
+          <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
           </div>
     </div>
     <div align= "center">
