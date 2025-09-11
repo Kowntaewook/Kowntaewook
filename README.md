@@ -30,7 +30,7 @@
     <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center"> <a href=https://www.instagram.com/kowntaewook/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/kowntaewook/"> </a>
-         <a href=https://myclassesmadebykwontaewook.notion.site/Project_SkyNet-26a9ecccd0ca800b8ca4e8a55ef1b61f?source=copy_link> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://myclassesmadebykwontaewook.notion.site/Project_SkyNet-26a9ecccd0ca800b8ca4e8a55ef1b61f?source=copy_link"> </a>
+         <a href=https://myclassesmadebykwontaewook.notion.site/Project_SkyNet-26a9ecccd0ca800b8ca4e8a55ef1b61f?source=copy_link> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=(https://myclassesmadebykwontaewook.notion.site/26b9ecccd0ca805faf63d3f1408a2a18?source=copy_link)"> </a>
          <a href=mailto:https://mail.google.com/mail/u/0/?tab=rm&ogbl> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:https://mail.google.com/mail/u/0/?tab=rm&ogbl"> </a>
           </div>  <br> 
     <div align= "center">  </div> 
